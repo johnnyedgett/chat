@@ -1,12 +1,12 @@
 # chat
 
-Thanks for stopping by! This chat is an example of using the MEAN stack. 
+Thanks for stopping by! This chat is an example of using the MERN stack. 
 Right now I'm using this for myself. That means you'll probably see poor programming practices so don't do this at home! :)
 
-## What is MEAN?
+## What is MERN?
 M - MongoDB
 E - Expressjs
-A - Angularjs
+R - Reactjs
 N - Nodejs
 
 `Because who needs anything other than JavaScript?`
