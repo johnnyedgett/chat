@@ -1,10 +1,9 @@
 {
-  "name": "socket-chat-example",
-  "version": "0.0.1",
-  "description": "my first socket.io app",
-  "dependencies": {
-    "express": "^4.16.3",
-    "socket.io": "^2.1.1",
-    "socket.io-client": "^2.1.1"
-  }
+    "name": "mean-chat",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/cli": "^6.0.8",
+        "express": "latest",
+        "gulp": "latest"
+    }
 }
