@@ -1,4 +1,4 @@
-# chat
+# react-chat
 
 Thanks for stopping by! This chat is an example of using the MERN stack. 
 Right now I'm using this for myself. That means you'll probably see poor programming practices so don't do this at home! :)
